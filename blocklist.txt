@@ -1,2 +1,3 @@
 duckduckgo.com##[data-domain$="xspdf.com"]
 duckduckgo.com##[data-domain$="experts-exchange.com"]
+duckduckgo.com##[data-domain$="msn.com"]
